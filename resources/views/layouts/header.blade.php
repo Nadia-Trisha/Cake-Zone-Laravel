@@ -41,9 +41,9 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto mx-lg-auto py-0">
-            <a href="index.html" class="nav-item nav-link active">Home</a>
-            <a href="about.html" class="nav-item nav-link">About Us</a>
-            <a href="menu.html" class="nav-item nav-link">Menu & Pricing</a>
+            <a href="\" class="nav-item nav-link active">Home</a>
+            <a href="/about" class="nav-item nav-link">About Us</a>
+            <a href="/menu" class="nav-item nav-link">Menu & Pricing</a>
             <a href="team.html" class="nav-item nav-link">Master Chefs</a>
             <div class="nav-item dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
@@ -52,7 +52,7 @@
                     <a href="testimonial.html" class="dropdown-item">Testimonial</a>
                 </div>
             </div>
-            <a href="contact.html" class="nav-item nav-link">Contact Us</a>
+            <a href="/contact" class="nav-item nav-link">Contact Us</a>
         </div>
     </div>
 </nav>
